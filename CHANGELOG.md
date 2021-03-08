@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.3.2](https://www.github.com/Fdawgs/ydh-myydh-crud-api/compare/v1.3.1...v1.3.2) (2021-03-08)
+
+
+### Miscellaneous
+
+* **workflows:** rename ci and perf sections ([6be7b4a](https://www.github.com/Fdawgs/ydh-myydh-crud-api/commit/6be7b4ad0b8522b1a6217c89dad02265df026eb0))
+
 ### [1.3.1](https://www.github.com/Fdawgs/ydh-myydh-crud-api/compare/v1.3.0...v1.3.1) (2021-03-03)
 
 
